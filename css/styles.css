@@ -8,16 +8,17 @@ h3{
 }
 
 div.dog{
-  width: 150px;
-  height: 350px;
+  width: 200px;
+  height: 500px;
   float: left;
-  border: 10px solid black;
+  border: 10px solid crimson;
   background-color: black;
+  padding: 3%;
 }
 
 div.dog img{
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
 }
 
 div.dog p{
