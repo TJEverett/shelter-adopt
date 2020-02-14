@@ -1,0 +1,29 @@
+h1{
+  font-size: 50px;
+}
+
+h3{
+  color: crimson;
+  font-weight: bolder;
+}
+
+div.dog{
+  width: 150px;
+  height: 350px;
+  float: left;
+  border: 10px solid black;
+  background-color: black;
+}
+
+div.dog img{
+  width: 150px;
+  height: 150px;
+}
+
+div.dog p{
+  color: white;
+}
+
+body{
+  margin: 5%;
+}
