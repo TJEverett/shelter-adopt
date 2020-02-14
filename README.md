@@ -10,16 +10,15 @@ A fake pet adoption page for an animal shelter. Used to give practice working wi
 
 ## Setup/Installation Requirements
 
-* Copy this directory
-* launch index.html in your browser
+1. Copy this directory
+2. launch index.html in your browser
 
 ## Technologies Used
 
-CSS
+- CSS
+- HTML
 
-HTML
-
-### License
+## License
 
 This software is licensed under the MIT license
 
